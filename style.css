@@ -5,8 +5,15 @@ body {
     height: 100vh;
     flex-direction: column;
 }
+
 p{
     font-size: 30px;
+}
+
+
+dl{
+    color: red;
+    font-size: 40px;
 }
 .grid-container {
     display: grid;
